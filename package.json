@@ -1,0 +1,44 @@
+{
+  "name": "xl-stats-func",
+  "version": "1.0.0",
+  "description": "A library of statistical functions in node.js.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "avg": "node ./tests/avg.test.js",
+    "sum": "node ./tests/sum.test.js",
+    "stdDev": "node ./tests/stdDev.test.js"
+  },
+  "keywords": [
+    "avg",
+    "statistics",
+    "fundamentals",
+    "sum",
+    "correlation coefficient",
+    "count",
+    "covariance",
+    "devSq",
+    "forecast",
+    "frequencyN",
+    "frequencyS",
+    "intercept",
+    "large",
+    "max",
+    "median",
+    "min",
+    "mode",
+    "rankAvg",
+    "rankEq",
+    "slope",
+    "small",
+    "stdDev",
+    "sum",
+    "varP"
+  ],
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "license": "ISC"
+}
