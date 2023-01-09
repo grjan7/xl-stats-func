@@ -3,7 +3,6 @@
 
 | Functions                                                                                      ||
 |:-------------------------|:---------------------------------------------------------------------|
-|                                                                                                ||
 | number                   | [**avg()**](#avg)                                                    |
 |                          | Returns the average of the given series of numbers.                  |
 | number                   | [**correlationCoefficient()**](#correlationCoefficient)              |
