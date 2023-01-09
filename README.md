@@ -17,4 +17,5 @@ A javascript implemenation of the statistical functions of Excel.
 
   ```
 ## Documentation
-[API Documentaion]("https://github.com/grjan7/xl-stats-func/docs/API_Documentaion.md")
+
+[API Documentaion](https://github.com/grjan7/xl-stats-func/docs/API_Documentaion.md)
