@@ -14,10 +14,9 @@
     "stdDev": "node ./tests/stdDev.test.js"
   },
   "keywords": [
-    "avg",
     "statistics",
     "fundamentals",
-    "sum",
+    "avg",
     "correlation coefficient",
     "count",
     "covariance",

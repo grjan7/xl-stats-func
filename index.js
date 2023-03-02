@@ -2,7 +2,7 @@
 
 module.exports = {
   avg: require('./lib/avg'),
-  correlationCoefficient: require('./lib/correlationCoefficient'),
+  correl: require('./lib/correl'),
   count: require('./lib/count'),
   covariance: require('./lib/covariance'),
   devSq: require('./lib/devSq'),
